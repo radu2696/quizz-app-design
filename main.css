@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+
+body {
+	margin: 0;
+	padding: 80px;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+}
+
+nav, section {
+  margin-bottom: 2px;
+}
+
+.nav-bar{
+	position: fixed;
+	top: 0;
+  	left: 0;
+  	right: 0;
+  	padding: 10px;
+	background-color: #EEEEEE;
+    border-bottom: 1px solid #DDDDDD;
+    text-align: center;
+    font-size: 12px;
+}
